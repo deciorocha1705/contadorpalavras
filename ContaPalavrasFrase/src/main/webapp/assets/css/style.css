@@ -1,0 +1,28 @@
+body {
+	background-color: #f2f2f2;
+}
+.painel-frase {
+	margin: 20px;
+	padding: 20px;
+	background-color: #ffffff;
+}
+
+.text-frase{
+	padding: 5px;
+	width: 100%;
+	height: 300px;
+	resize: none;
+}
+
+#btnContar{
+	margin-top: 10px;
+}
+
+.mostra-Resultados {
+	margin-top: 10px;
+	border: solid 1px #000;
+}
+
+li {
+	list-style: none inside;
+}
